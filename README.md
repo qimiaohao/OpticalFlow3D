@@ -29,3 +29,5 @@ plt.show()
 plt.imshow(o[:,:,10,1])
 plt.show()
 ```
+
+if there is any question it is welcomed to contact me.
